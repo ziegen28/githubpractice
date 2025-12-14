@@ -18,7 +18,8 @@ git status
 BRANCH:
 
 git branch (check the current branch)
-git checkout -b <"branch name">
+git checkout -b <"Branch name">
+
 
 
 
