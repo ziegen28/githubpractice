@@ -10,7 +10,7 @@ feat:
 refactor:
 Docs:
 chore:
-fix:
+f
 git pull 
 git push origin <branch name>
 git status
@@ -18,8 +18,11 @@ git status
 BRANCH:
 
 git branch (check the current branch)
-git checkout -b <"Branch name">
+git checkout -b <"branch name">
+git push origin <BRANCH name> TO PUSH
+git switch <branchname>
 
+merge conflict :
 
 
 
