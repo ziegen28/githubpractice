@@ -23,7 +23,17 @@ git push origin <BRANCH name> TO PUSH
 git switch <branchname>
 
 merge conflict :
-resolving the merge conflict
+resolve by speaking with collegue and team
+
+git status
+
+git stash (for save)
+
+git branch -a 
+
+git log 
+
+git remote add origin <url>
 
 
 
