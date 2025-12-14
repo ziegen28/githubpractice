@@ -13,4 +13,6 @@ chore:
 fix:
 git pull 
 git push origin <branch name>
+git status
+
 
