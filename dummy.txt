@@ -11,7 +11,6 @@ refactor:
 Docs:
 chore:
 fix:
-
-
+git pull 
 git push origin <branch name>
 
