@@ -15,4 +15,10 @@ git pull
 git push origin <branch name>
 git status
 
+BRANCH:
+
+git branch (check the current branch)
+git checkout -b <"branch name">
+
+
 
