@@ -19,9 +19,10 @@ BRANCH:
 
 git branch (check the current branch)
 git checkout -b <"branch name">
-git push origin <branch name>
-
+git push origin <BRANCH name> TO PUSH
 git switch <branchname>
+
+merge conflict :
 
 
 
